@@ -1,0 +1,5 @@
+{
+  "name": "PackMaster 3D: Container Optimizer",
+  "description": "A professional 3D Container Packing Optimizer. Upload CSV data of items, configure container constraints, and visualize the optimal packing arrangement in an interactive 3D environment. Export loading sequences to Excel.",
+  "requestFramePermissions": []
+}
